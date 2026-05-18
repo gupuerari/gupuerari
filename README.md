@@ -49,9 +49,9 @@ Universidade Federal do Paraná (UFPR), Brazil
 
 ## Reach Me
 
-- **Upwork** → [your-upwork-link]
-- **LinkedIn** → [your-linkedin-link]
-- **Email** → [your-email]
+- **Upwork** → [upwork-link](https://www.upwork.com/freelancers/~01b93de8494c8270ba?mp_source=share) 
+- **LinkedIn** → [LinkedIn-link](www.linkedin.com/in/gustavo-puerari-araujo)
+- **Email** → [Email](gupuerari@gmail.com)
 
 ---
 
